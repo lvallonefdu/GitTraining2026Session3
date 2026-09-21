@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="GitTraining2026Session3/GitTraining2026Session3.vcxproj" />
+  <Project Path="GitTraining2026Session3/GitTraining2026Session3.vcxproj" Id="e82ce2b1-b66e-4be4-ba9e-98fbb955cb74" />
 </Solution>
