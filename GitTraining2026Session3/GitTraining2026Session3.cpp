@@ -10,7 +10,9 @@ int main()
     std::cout << "This is heather.\n";
     std::cout << "Change on remote from prof\n";
     std::cout << "Hello from Christian\n";
-	std::cout << "This is heather's change.\n";
+    std::cout << "yo idk how to feel about blue cheese\n";
+	std::cout << "Hello from not Christian\n";
+	std::cout << "This is heather's new change.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
