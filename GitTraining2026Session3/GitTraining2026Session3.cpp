@@ -13,6 +13,7 @@ int main()
     std::cout << "yo idk how to feel about blue cheese\n";
 	std::cout << "Hello from not Christian\n";
 	std::cout << "This is heather's new change.\n";
+	std::cout << "Heather's branched change\n" ;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
