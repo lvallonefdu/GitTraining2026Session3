@@ -11,6 +11,7 @@ int main()
     std::cout << "Change on remote from prof\n";
     std::cout << "Hello from Christian\n";
     std::cout << "yo idk how to feel about blue cheese\n";
+	std::cout << "Hello from not Christian\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
